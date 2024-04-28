@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Judy!
+# 👋 Hi, I’m Judy!
 - 📫 How to reach me: judywong36@gmail.com
 
 <!---
